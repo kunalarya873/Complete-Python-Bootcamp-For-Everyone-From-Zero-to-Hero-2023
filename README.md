@@ -1,12 +1,11 @@
 <!-- Add your project banner here -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deeplearning.ai%2Fblog%2Fessential-python-libraries-for-machine-learning-and-data-science%2F&psig=AOvVaw106dDQ7AyI31BJGSNuQAA0&ust=1696748685906000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCh7-Sv44EDFQAAAAAdAAAAABAE" alt="Complete Python Course">
+  <img src="https://wordpress.deeplearning.ai/wp-content/uploads/2023/04/The-Batch-ads-and-exclusive-banners-8.jpg" alt="Complete Python Course">
 </p>
 
 1. **Clone the Repository**:
-   ```bashpyth
+   ```bash
    git clone https://github.com/yourusername/python-problems.git
-
 <!-- Project Title -->
 <h1 align="center">Complete Python Course</h1>
 <h2 align="center">From Beginner to Advanced 2023</h2>
